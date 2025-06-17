@@ -1,2 +1,2 @@
-    // int * ptr = (int *) malloc(10 * sizeof(int));
-    // printf("%d\n", *ptr);
+printf("%d\n", *ptr);
+    // printf("%p\n", ptr);

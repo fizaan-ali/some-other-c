@@ -1,0 +1,29 @@
+# C build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Debugger and profiling
+*.gdb
+*.valgrind
+core
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+
+# System
+.DS_Store
+node_modules/
+
+# Temporary files
+temp*
+tempCodeRunnerFile.*
